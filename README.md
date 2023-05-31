@@ -42,8 +42,8 @@ The app must have the following functionalities
 
 - The `GradientGenerator` component will consist `gradientDirectionsList`. It consists of a list of gradient directions objects with the following properties in each gradient directions object
 
-  |    Key      | Data Type |
-  | :--------:  | :-------: |
+  |     Key     | Data Type |
+  | :---------: | :-------: |
   | directionId |  String   |
   |    value    |  String   |
   | displayText |  string   |
@@ -138,3 +138,5 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+check website/webapp from here: https://bggradientfaiz.ccbp.tech
